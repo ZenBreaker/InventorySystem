@@ -1,0 +1,20 @@
+﻿  Input.cpp
+  Inventory.cpp
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(56,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(115,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(117,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(129,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(131,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(133,29): warning C4018: '>': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(143,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(145,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(148,31): warning C4018: '>': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(148,71): warning C4018: '>': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(188,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(197,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(204,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(208,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Project\Inventory.cpp(287,20): warning C4018: '<': signed/unsigned mismatch
+  Item.cpp
+  Generating Code...
+  Project.vcxproj -> C:\Users\MICHAEL\Documents\GitHub\InventorySystem\Solution\Debug\Project.exe
