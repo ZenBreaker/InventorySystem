@@ -23,3 +23,9 @@ void Item::Print(PRINTROBUSTNESS robustness) const
     }
   }
 }
+
+bool Item::Use()
+{
+  printf("\n%s has been used.\n", m_Name.c_str());
+  return true;
+}

@@ -43,6 +43,7 @@ public:
   const ItemMasks& Mask() const { return m_Mask; }
 
   virtual void Print(PRINTROBUSTNESS robustness = NAMES) const;
+  virtual bool Use();
 private:
   std::string m_Name;
   int m_Height;
